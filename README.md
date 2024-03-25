@@ -31,25 +31,17 @@ Technologies I can utilize to a varying degree of proficiency. In no particular 
     - Spring framework
 - Docker
 - Linux
-    > [!NOTE]
-    > I use ***arch*** <img class="adjust" src="assets/images/Arch_Linux_ logo.svg">, btw
+
+> [!NOTE]
+> I use ***arch*** <img style="width:15px;position:relative;top:2px" class="adjust" src="assets/images/Arch_Linux_ logo.svg">, btw
 
 ### Contacts:
-Hit me on telegram - [<img class="adjust" src="assets/images/Telegram_logo.svg">](https://t.me/christophernya)
+Hit me on telegram - [<img style="width:15px;position:relative;top:2px" class="adjust" src="assets/images/Telegram_logo.svg">](https://t.me/christophernya)
 
-Or send an e-mail - [<img src= "assets/images/Gmail_logo.svg">](mailto:ua.anton.sams@gmail.com)
+Or send an e-mail - [<img style="width:15px;" src="assets/images/Gmail_logo.svg">](mailto:ua.anton.sams@gmail.com)
 
-Me on linkedin - [<img src="assets/images/LinkedIn_logo.svg" class="adjust">](https://www.linkedin.com/in/samsonov-anton)
+Me on linkedin - [<img style="width:15px;position:relative;top:2px" src="assets/images/LinkedIn_logo.svg">](https://www.linkedin.com/in/samsonov-anton)
 
-<style>
-    img {
-        width: 15px;
-    }
-    .adjust {
-        position: relative;
-        top: 2px
-    }
-</style>
 ---
 
 Have a great day, bye!
